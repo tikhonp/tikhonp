@@ -1,10 +1,11 @@
-### Tikhon Petrishchev
+# "Experience"
 
-I am a:
-- Creator of [Python Yandex Speechkit SDK](https://github.com/tikhonp/yandex-speechkit-lib-python)
-- Telemedecine company employer, Maintainer of iOS app and IoT devices integration enjoyer 
+Director of cross-contextual speech synthesis repurposing as it applies to distributed telepresence, decentralized acoustic feedback loops, and mobile first existential device bonding. Former Lead Maintainer of transitional firmware ambiguity at the Virtual Clinic of Conceptual Health. Vision architect of protocol handshakes between unwilling IoT endpoints and their human co-dependents.
 
-Currently learning Go for web and low level staff on C.
+Currently engaged in quantum-level comprehension of Golang pointer philosophy and interpretive C-based memory hallucination. Very low-level.
 
-#### Contact Information:
-- Email: `tikhon.petrishchev <at> gmail.com`
+# Currently Learning
+- Gesture-based container orchestration
+- LOL (early alpha, deeply unstable)
+- Compiler anxiety management
+- Raw string empathy
