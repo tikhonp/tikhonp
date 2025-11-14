@@ -9,3 +9,4 @@ Currently engaged in quantum-level comprehension of Golang pointer philosophy an
 - LOL (early alpha, deeply unstable)
 - Compiler anxiety management
 - Raw string empathy
+- I only accept offers for IN-BEDded Developers roles
